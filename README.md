@@ -1,4 +1,4 @@
-# Recreating Demucs: Deep Extractor for Music Sources
+# Recreating HDemucs: Deep Extractor for Music Sources
 
 In this project, we set out to reproduce the results of the original HDemucs work [1,2], which tackles **music source separation**: splitting a mixed track into vocals, drums, bass, and “other”. The original paper uses a **semi-supervised approach**: alongside the main source separation model, it introduces an **auxiliary model** that labels unlabelled mixtures. These pseudo-labels are then used to further train the main separation model.
 
