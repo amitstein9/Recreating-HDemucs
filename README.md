@@ -123,7 +123,7 @@ The project is built of 4 directories:
 
 - **demucs**: this directory holds the original project repo published by facebook research. All training, inference, release, etc. scripts are supplied by them.
 - **demucs_results**: this directory holds the results (intermediate and final) we obtained while training and running the model. More specifically, it contains logs, graphs and separation examples from running our model.
-- **graphing scripts**: this directory holds the scripts we used to create the graphs presented in the project PDF as well as any other operation we needed to do that. Some of the scripts assume we are running them from the root directory, and may need slight changes in order to run.
+- **Graphing scripts**: this directory holds the scripts we used to create the graphs presented in the project PDF as well as any other operation we needed to do that. Some of the scripts assume we are running them from the root directory, and may need slight changes in order to run.
 - **slurm_scripts**: this directory holds the scripts we ran on the slurm cluster. They each contain relevant calls to functions from the original repo with the correct parameters set.
 
 
