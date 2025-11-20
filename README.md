@@ -104,9 +104,9 @@ For further technical details on the Demucs models, training hyperparameters, an
 
 ### Building the Soundstretch Binary 
 
-```bash
+
 We think you should be able to skip this step since our zip should already contain the relevant files, however we leave it here in case you run into any trouble with it. 
-```
+
 
 Demucs uses `soundstretch` from the [SoundTouch library](https://www.surina.net/soundtouch/soundstretch.html)  for pitch/tempo augmentation. Although many systems provide a pre-built version, if you need to compile your own you can follow the instructions provided on the SoundTouch website. Ensure that the resulting executable is placed (or linked) in the appropriate directory so that your SLURM scripts can find it via the PATH. In our SLURM scripts, we add the soundstretch directory with:
 
@@ -123,7 +123,7 @@ The project is built of 4 directories:
 
 - demucs: this directory holds the original project repo published by facebook research. All training, inference, release, etc. scripts are supplied by them.
 - demucs_results: this directory holds the results (intermediate and final) we obtained while training and running the model. More specifically, it contains logs, graphs and separation examples from running our model.
-- graphing scripts: this directory holds the scripts we used to create the graphs presented in the project PDF as well as any other operation we needed to do that. Some of the scripts assume we are running them from the root directory, and may need slight changes in order to run.
+- **graphing scripts**: this directory holds the scripts we used to create the graphs presented in the project PDF as well as any other operation we needed to do that. Some of the scripts assume we are running them from the root directory, and may need slight changes in order to run.
 - slurm_scripts: this directory holds the scripts we ran on the slurm cluster. They each contain relevant calls to functions from the original repo with the correct parameters set.
 
 
