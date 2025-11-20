@@ -11,7 +11,7 @@ However, the paper does **not** provide full details or code for the auxiliary m
 Overall, this project focuses on understanding and reproducing the **core HDemucs architecture and training pipeline**, while also investigating how far we can go in a semi-supervised direction **without** the original auxiliary model.
 
 <p align="center">
-<img src="./demucs.png" alt="Schema representing the structure of Hybrid Transformer Demucs,
+<img src="./demucs/demucs.png" alt="Schema representing the structure of Hybrid Transformer Demucs,
     with a dual U-Net structure, one branch for the temporal domain,
     and one branch for the spectral domain. There is a cross-domain Transformer between the Encoders and Decoders."
 width="800px"></p>
