@@ -1,0 +1,775 @@
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: common_file_write_content: unable to open '/sys/fs/cgroup/memory/slurm/uid_60313/memory.use_hierarchy' for writing: No such file or directory
+slurmstepd: error: unable to set hierarchical accounting for /slurm/uid_60313
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+[W402 21:33:01.506195520 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.506230250 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.569381622 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.569468142 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.620906047 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.620944757 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.624761666 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.624795856 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.751034629 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.751076919 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.824518368 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.824546858 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+[W402 21:33:01.955848970 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.955885280 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 21:33:01.959897979 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W402 21:33:01.959930209 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[rank0]:[W402 21:33:15.652427688 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank1]:[W402 21:33:15.652427768 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 1]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank2]:[W402 21:33:15.652427878 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 2]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank4]:[W402 21:33:15.652449508 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 4]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank5]:[W402 21:33:15.652427708 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 5]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank6]:[W402 21:33:15.652448208 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 6]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank7]:[W402 21:33:15.652451718 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 7]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank3]:[W402 21:33:15.652568798 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 3]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+[rank7]:[E402 21:43:15.295513377 ProcessGroupNCCL.cpp:616] [Rank 7] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600005 milliseconds before timing out.
+[rank2]:[E402 21:43:15.297339297 ProcessGroupNCCL.cpp:616] [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+[rank2]:[E402 21:43:15.297700067 ProcessGroupNCCL.cpp:616] [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+[rank4]:[E402 21:43:15.297740127 ProcessGroupNCCL.cpp:616] [Rank 4] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+[rank6]:[E402 21:43:15.297757917 ProcessGroupNCCL.cpp:616] [Rank 6] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+[rank1]:[E402 21:43:15.298257207 ProcessGroupNCCL.cpp:616] [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+[rank5]:[E402 21:43:15.298906787 ProcessGroupNCCL.cpp:616] [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600008 milliseconds before timing out.
+[rank0]:[E402 21:43:15.298982127 ProcessGroupNCCL.cpp:616] [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600008 milliseconds before timing out.
+[rank3]:[E402 21:43:15.300031917 ProcessGroupNCCL.cpp:616] [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600009 milliseconds before timing out.
+[rank0]:[E402 21:43:15.305641116 ProcessGroupNCCL.cpp:616] [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600015 milliseconds before timing out.
+[rank3]:[E402 21:43:15.306980096 ProcessGroupNCCL.cpp:616] [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600016 milliseconds before timing out.
+[rank0]:[E402 21:43:15.312619534 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 0] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank0]:[E402 21:43:15.312648524 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 0] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank0]:[E402 21:43:15.312657414 ProcessGroupNCCL.cpp:630] [Rank 0] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank2]:[E402 21:43:15.312630924 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 2] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank2]:[E402 21:43:15.312655214 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 2] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank2]:[E402 21:43:15.312663294 ProcessGroupNCCL.cpp:630] [Rank 2] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank3]:[E402 21:43:15.312658444 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 3] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank3]:[E402 21:43:15.312706114 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 3] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank3]:[E402 21:43:15.312715184 ProcessGroupNCCL.cpp:630] [Rank 3] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank5]:[E402 21:43:15.321170723 ProcessGroupNCCL.cpp:616] [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600030 milliseconds before timing out.
+[rank5]:[E402 21:43:15.321255103 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 5] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank5]:[E402 21:43:15.321270733 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 5] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank5]:[E402 21:43:15.321277073 ProcessGroupNCCL.cpp:630] [Rank 5] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank5]:[E402 21:43:15.321359823 ProcessGroupNCCL.cpp:679] [Rank 5] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank0]:[E402 21:43:15.321381643 ProcessGroupNCCL.cpp:679] [Rank 0] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank2]:[E402 21:43:15.321390533 ProcessGroupNCCL.cpp:679] [Rank 2] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank1]:[E402 21:43:15.321417873 ProcessGroupNCCL.cpp:679] [Rank 1] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank3]:[E402 21:43:15.321465183 ProcessGroupNCCL.cpp:679] [Rank 3] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank4]:[E402 21:43:15.321463083 ProcessGroupNCCL.cpp:679] [Rank 4] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank7]:[E402 21:43:15.321463073 ProcessGroupNCCL.cpp:679] [Rank 7] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank6]:[E402 21:43:15.321487043 ProcessGroupNCCL.cpp:679] [Rank 6] Work WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) timed out in blocking wait (TORCH_NCCL_BLOCKING_WAIT=1).
+[rank3]:[E402 21:43:16.445779769 ProcessGroupNCCL.cpp:630] [Rank 3] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank3]:[E402 21:43:16.445803099 ProcessGroupNCCL.cpp:636] [Rank 3] To avoid data inconsistency, we are taking the entire process down.
+[rank4]:[E402 21:43:16.450127269 ProcessGroupNCCL.cpp:630] [Rank 4] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank4]:[E402 21:43:16.450142709 ProcessGroupNCCL.cpp:636] [Rank 4] To avoid data inconsistency, we are taking the entire process down.
+[rank4]:[E402 21:43:16.450343069 ProcessGroupNCCL.cpp:542] [Rank 4] Collective WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) raised the following async exception: NCCL error: unhandled system error (run with NCCL_DEBUG=INFO for details), NCCL version 2.21.5
+ncclSystemError: System call (e.g. socket, malloc) or external library call failed or device error. 
+Last error:
+
+Exception raised from checkForNCCLErrorsInternal at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:2027 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7b8d78720446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::checkForNCCLErrorsInternal(std::shared_ptr<c10d::NCCLComm>&) + 0x220 (0x7b8d79971e80 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::WorkNCCL::checkAndSetException() + 0x7c (0x7b8d799720cc in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::watchdogHandler() + 0x213 (0x7b8d79979a93 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7b8d7997b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #5: <unknown function> + 0x145c0 (0x7b8dc7dee5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #6: <unknown function> + 0x9caa4 (0x7b8dc9a9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #7: <unknown function> + 0x129c3c (0x7b8dc9b29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[E402 21:43:16.455254548 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 4] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank4]:[E402 21:43:16.455266088 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 4] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank4]:[E402 21:43:16.455275218 ProcessGroupNCCL.cpp:630] [Rank 4] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank5]:[E402 21:43:16.493073021 ProcessGroupNCCL.cpp:630] [Rank 5] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank5]:[E402 21:43:16.493098991 ProcessGroupNCCL.cpp:636] [Rank 5] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank6]:[E402 21:43:16.526319764 ProcessGroupNCCL.cpp:630] [Rank 6] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank6]:[E402 21:43:16.526342204 ProcessGroupNCCL.cpp:636] [Rank 6] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank6]:[E402 21:43:16.526442984 ProcessGroupNCCL.cpp:542] [Rank 6] Collective WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) raised the following async exception: NCCL error: unhandled system error (run with NCCL_DEBUG=INFO for details), NCCL version 2.21.5
+ncclSystemError: System call (e.g. socket, malloc) or external library call failed or device error. 
+Last error:
+
+Exception raised from checkForNCCLErrorsInternal at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:2027 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7d41bef6c446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::checkForNCCLErrorsInternal(std::shared_ptr<c10d::NCCLComm>&) + 0x220 (0x7d4170b71e80 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::WorkNCCL::checkAndSetException() + 0x7c (0x7d4170b720cc in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::watchdogHandler() + 0x213 (0x7d4170b79a93 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7d4170b7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #5: <unknown function> + 0x145c0 (0x7d41bf3db5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #6: <unknown function> + 0x9caa4 (0x7d41c0e9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #7: <unknown function> + 0x129c3c (0x7d41c0f29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[E402 21:43:16.529183564 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 6] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank6]:[E402 21:43:16.529196114 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 6] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank6]:[E402 21:43:16.529203014 ProcessGroupNCCL.cpp:630] [Rank 6] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank0]:[E402 21:43:16.539655032 ProcessGroupNCCL.cpp:630] [Rank 0] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank0]:[E402 21:43:16.539675942 ProcessGroupNCCL.cpp:636] [Rank 0] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank7]:[E402 21:43:16.547284530 ProcessGroupNCCL.cpp:630] [Rank 7] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank7]:[E402 21:43:16.547312150 ProcessGroupNCCL.cpp:636] [Rank 7] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank7]:[E402 21:43:16.547441610 ProcessGroupNCCL.cpp:542] [Rank 7] Collective WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) raised the following async exception: NCCL error: unhandled system error (run with NCCL_DEBUG=INFO for details), NCCL version 2.21.5
+ncclSystemError: System call (e.g. socket, malloc) or external library call failed or device error. 
+Last error:
+
+Exception raised from checkForNCCLErrorsInternal at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:2027 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x72198e520446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::checkForNCCLErrorsInternal(std::shared_ptr<c10d::NCCLComm>&) + 0x220 (0x72198f771e80 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::WorkNCCL::checkAndSetException() + 0x7c (0x72198f7720cc in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::watchdogHandler() + 0x213 (0x72198f779a93 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x72198f77b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #5: <unknown function> + 0x145c0 (0x7219ddbee5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #6: <unknown function> + 0x9caa4 (0x7219df89caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #7: <unknown function> + 0x129c3c (0x7219df929c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[E402 21:43:16.550195910 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 7] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank7]:[E402 21:43:16.550204450 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 7] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank7]:[E402 21:43:16.550211290 ProcessGroupNCCL.cpp:630] [Rank 7] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 6] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600008 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 7] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600005 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600008 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 4] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+torch.distributed.DistBackendError: [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600009 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+[rank1]:[E402 21:43:16.905078883 ProcessGroupNCCL.cpp:630] [Rank 1] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank1]:[E402 21:43:16.905111393 ProcessGroupNCCL.cpp:636] [Rank 1] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+[rank1]:[E402 21:43:16.905227683 ProcessGroupNCCL.cpp:542] [Rank 1] Collective WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) raised the following async exception: NCCL error: unhandled system error (run with NCCL_DEBUG=INFO for details), NCCL version 2.21.5
+ncclSystemError: System call (e.g. socket, malloc) or external library call failed or device error. 
+Last error:
+
+Exception raised from checkForNCCLErrorsInternal at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:2027 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7f55d356c446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::checkForNCCLErrorsInternal(std::shared_ptr<c10d::NCCLComm>&) + 0x220 (0x7f5585171e80 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::WorkNCCL::checkAndSetException() + 0x7c (0x7f55851720cc in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::watchdogHandler() + 0x213 (0x7f5585179a93 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7f558517b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #5: <unknown function> + 0x145c0 (0x7f55d39a65c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #6: <unknown function> + 0x9caa4 (0x7f55d549caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #7: <unknown function> + 0x129c3c (0x7f55d5529c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank1]:[E402 21:43:16.907921062 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 1] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank1]:[E402 21:43:16.907934852 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 1] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank1]:[E402 21:43:16.907942212 ProcessGroupNCCL.cpp:630] [Rank 1] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank2]:[E402 21:43:16.907987902 ProcessGroupNCCL.cpp:630] [Rank 2] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank2]:[E402 21:43:16.908006772 ProcessGroupNCCL.cpp:636] [Rank 2] To avoid data inconsistency, we are taking the entire process down.
+Error executing job with overrides: ['test.every=180', 'batch_size=32', 'hdemucs.norm_starts=100', 'hdemucs.cac=False', 'test.split=True', 'valid_apply=True', 'model=hdemucs', 'hdemucs.dconv_lstm=4', 'ema.epoch=[0.9,0.95]', 'ema.batch=[0.9995,0.9999]', 'seed=42', 'hdemucs.hybrid_old=True', 'svd=base', 'svd.penalty=1e-05', 'svd.dim=80', 'svd.convtr=True', 'optim.lr=0.0003', 'continue_from=44f697b5']
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 242, in main
+    solver = get_solver(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 178, in get_solver
+    train_set, valid_set = get_datasets(args)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/train.py", line 113, in get_datasets
+    train_set, valid_set = get_musdb_wav_datasets(args.dset)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/wav.py", line 234, in get_musdb_wav_datasets
+    distributed.barrier()
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+    return func(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/distributed/distributed_c10d.py", line 4164, in barrier
+    work.wait()
+torch.distributed.DistBackendError: [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600007 milliseconds before timing out.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 7
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 6
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+srun: error: n-804: tasks 0,6-7: Exited with exit code 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 4
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 2
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 5
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+srun: error: n-804: tasks 2,4-5: Exited with exit code 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 3
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 1
+srun: error: n-804: tasks 1,3: Exited with exit code 1
+slurmstepd: error: Could not find task_cpuacct_cg, this should never happen
+slurmstepd: error: Cannot get cgroup accounting data for 0

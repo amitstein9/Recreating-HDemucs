@@ -1,0 +1,306 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat Mar 22 19:44:09 2025
+
+# Variables
+
+# environment
+LC_ALL = C
+# environment
+VSCODE_CWD = /specific/a/home/cc/students/cs/amitstein
+# environment
+GROUP = math1
+# environment
+MACHTYPE = x86_64
+# default
+MAKE_COMMAND := make
+# environment
+VSCODE_HANDLES_SIGPIPE = true
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+HOST = c-002
+# environment
+PWD = /home/yandex/APDL2425a/group_15/demucs
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+LANG = C
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /home/yandex/APDL2425a/group_15/demucs
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+SSL_CERT_FILE = /usr/lib/ssl/certs/ca-certificates.crt
+# environment
+VENDOR = unknown
+# environment
+XDG_SESSION_TYPE = tty
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/60313/bus
+# environment
+SSL_CERT_DIR = /usr/lib/ssl/certs
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_CLI_REQUIRE_TOKEN = 9fd499fe-3710-4b6c-897d-95018fc1e44b
+# environment
+VSCODE_NLS_CONFIG = {"userLocale":"en","osLocale":"en","resolvedLanguage":"en","defaultMessagesFile":"/specific/a/home/cc/students/cs/amitstein/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/server/out/nls.messages.json","locale":"en","availableLanguages":{}}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 2
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /specific/a/home/cc/students/cs/amitstein/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/server/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# default
+MAKEFILES := 
+# environment
+LANGUAGE = en_IL:en
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# environment
+OSTYPE = linux
+# environment
+SSH_CLIENT = 10.12.9.8 64332 22
+# automatic
+?F = $(notdir $?)
+# environment
+HOSTTYPE = x86_64-linux
+# automatic
++F = $(notdir $+)
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+BROWSER = /specific/a/home/cc/students/cs/amitstein/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/server/bin/helpers/browser.sh
+# environment
+LOGNAME = amitstein
+# makefile
+.DEFAULT_GOAL := all
+# environment
+USER = amitstein
+# default
+MAKE_VERSION := 4.3
+# environment
+VSCODE_AGENT_FOLDER = /a/home/cc/students/cs/amitstein/.vscode-server
+# environment
+XDG_RUNTIME_DIR = /run/user/60313
+# environment
+VSCODE_IPC_HOOK_CLI = /run/user/60313/vscode-ipc-4586c2c6-0373-4f61-ac7f-7a51a3fbbe92.sock
+# environment
+XDG_SESSION_CLASS = user
+# environment
+HOME = /a/home/cc/students/cs/amitstein
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+XDG_SESSION_ID = 6537
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+SSH_CONNECTION = 10.12.9.8 64332 132.67.130.126 22
+# variable set hash-table stats:
+# Load=70/1024=7%, Rehash=0, Collisions=3/103=3%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 120, inode 2143411664): 29 files, no impossibilities.
+
+# 29 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+dist:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 31):
+	python3 setup.py sdist
+
+test_train: tests/musdb
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 10):
+	_DORA_TEST_PATH=/tmp/demucs python3 -m dora run --clear \
+		dset.musdb=./tests/musdb dset.segment=4 dset.shift=2 epochs=2 model=demucs \
+		demucs.depth=2 demucs.channels=4 test.sdr=false misc.num_workers=0 test.workers=0 \
+		test.shifts=0
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2025-03-22 19:42:14.678625
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 34):
+	rm -r dist build *.egg-info
+
+tests: test_train test_eval
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: linter tests
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+
+test_eval:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 16):
+	python3 -m demucs -n demucs_unittest test.mp3
+	python3 -m demucs -n demucs_unittest --two-stems=vocals test.mp3
+	python3 -m demucs -n demucs_unittest --mp3 test.mp3
+	python3 -m demucs -n demucs_unittest --flac --int24 test.mp3
+	python3 -m demucs -n demucs_unittest --int24 --clip-mode clamp test.mp3
+	python3 -m demucs -n demucs_unittest --segment 8 test.mp3
+	python3 -m demucs.api -n demucs_unittest --segment 8 test.mp3
+	python3 -m demucs --list-models
+
+linter:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := linter
+# automatic
+# * := 
+# automatic
+# < := 
+# automatic
+# + := 
+# automatic
+# % := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  recipe to execute (from 'Makefile', line 4):
+	flake8 demucs
+	mypy demucs
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY: linter dist test_train test_eval
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+tests/musdb:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 26):
+	test -e tests || mkdir tests
+	python3 -c 'import musdb; musdb.DB("tests/tmp", download=True)'
+	musdbconvert tests/tmp tests/musdb
+
+# files hash-table stats:
+# Load=12/1024=1%, Rehash=0, Collisions=0/38=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 42 / storage = 438 B / avg = 10 B
+# current buf: size = 8162 B / used = 438 B / count = 42 / avg = 10 B
+
+# strcache performance: lookups = 66 / hit rate = 36%
+# hash-table stats:
+ 
+# Load=42/8192=1%, Rehash=0, Collisions=1/66=2%
+# Finished Make data base on Sat Mar 22 19:44:09 2025
+
+ 

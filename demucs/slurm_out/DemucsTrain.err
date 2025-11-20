@@ -1,0 +1,306 @@
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+[W402 18:27:10.540123496 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.875964766 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.153802853 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.165100986 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.171199520 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.207724626 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.219867445 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[W402 18:27:11.229934368 CUDAAllocatorConfig.h:28] Warning: expandable_segments not supported on this platform (function operator())
+[rank1]:[W402 18:27:16.754329263 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 1]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank4]:[W402 18:27:16.754420433 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 4]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank7]:[W402 18:27:17.330525429 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 7]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank0]:[W402 18:27:17.610617862 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank3]:[W402 18:27:18.134598983 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 3]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank5]:[W402 18:27:18.170866568 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 5]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank6]:[W402 18:27:18.171164270 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 6]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank2]:[W402 18:27:18.248726735 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 2]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank3]:[E402 18:37:18.513334687 ProcessGroupNCCL.cpp:616] [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+[rank4]:[E402 18:37:18.513365557 ProcessGroupNCCL.cpp:616] [Rank 4] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+[rank1]:[E402 18:37:18.519922224 ProcessGroupNCCL.cpp:616] [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600010 milliseconds before timing out.
+[rank1]:[E402 18:37:18.524286545 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 1] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank1]:[E402 18:37:18.524305245 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 1] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank1]:[E402 18:37:18.524310145 ProcessGroupNCCL.cpp:630] [Rank 1] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank1]:[E402 18:37:18.524315285 ProcessGroupNCCL.cpp:636] [Rank 1] To avoid data inconsistency, we are taking the entire process down.
+[rank4]:[E402 18:37:18.524287025 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 4] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank4]:[E402 18:37:18.524305475 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 4] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank4]:[E402 18:37:18.524310125 ProcessGroupNCCL.cpp:630] [Rank 4] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank4]:[E402 18:37:18.524315295 ProcessGroupNCCL.cpp:636] [Rank 4] To avoid data inconsistency, we are taking the entire process down.
+[rank3]:[E402 18:37:18.524332665 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 3] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank3]:[E402 18:37:18.524355425 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 3] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank3]:[E402 18:37:18.524363286 ProcessGroupNCCL.cpp:630] [Rank 3] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank3]:[E402 18:37:18.524372136 ProcessGroupNCCL.cpp:636] [Rank 3] To avoid data inconsistency, we are taking the entire process down.
+[rank1]:[E402 18:37:18.532368993 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 1] Process group watchdog thread terminated with exception: [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600010 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x77729083a446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x777241d72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x777241d79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x777241d7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7772909a15c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x77729249caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x777292529c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank4]:[E402 18:37:18.532369033 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 4] Process group watchdog thread terminated with exception: [Rank 4] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7bebc063f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7beb71b72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7beb71b79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7beb71b7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7bebc07a65c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7bebc229caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7bebc2329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+terminate called after throwing an instance of 'c10::DistBackendError'
+[rank3]:[E402 18:37:18.532593324 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 3] Process group watchdog thread terminated with exception: [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7e5a69685446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7e5a1ab72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7e5a1ab79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7e5a1ab7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7e5a697ec5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7e5a6b29caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7e5a6b329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 3] Process group watchdog thread terminated with exception: [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7e5a69685446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7e5a1ab72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7e5a1ab79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7e5a1ab7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7e5a697ec5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7e5a6b29caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7e5a6b329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7e5a69685446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x7e5a1a7f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x7e5a697ec5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x7e5a6b29caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x7e5a6b329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 1] Process group watchdog thread terminated with exception: [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600010 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x77729083a446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x777241d72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x777241d79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x777241d7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7772909a15c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x77729249caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x777292529c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x77729083a446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x7772419f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x7772909a15c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x77729249caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x777292529c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 4] Process group watchdog thread terminated with exception: [Rank 4] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600004 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7bebc063f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7beb71b72672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7beb71b79ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7beb71b7b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7bebc07a65c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7bebc229caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7bebc2329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7bebc063f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x7beb717f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x7bebc07a65c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x7bebc229caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x7bebc2329c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank6]:[E402 18:37:18.551683841 ProcessGroupNCCL.cpp:616] [Rank 6] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600042 milliseconds before timing out.
+[rank6]:[E402 18:37:18.552824229 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 6] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank6]:[E402 18:37:18.552835959 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 6] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank6]:[E402 18:37:18.552839729 ProcessGroupNCCL.cpp:630] [Rank 6] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank6]:[E402 18:37:18.552844249 ProcessGroupNCCL.cpp:636] [Rank 6] To avoid data inconsistency, we are taking the entire process down.
+[rank6]:[E402 18:37:18.554570332 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 6] Process group watchdog thread terminated with exception: [Rank 6] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600042 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x794c05245446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x794bb6772672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x794bb6779ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x794bb677b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x794c053ac5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x794c06e9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x794c06f29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+[rank0]:[E402 18:37:18.555201046 ProcessGroupNCCL.cpp:616] [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 6] Process group watchdog thread terminated with exception: [Rank 6] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600042 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x794c05245446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x794bb6772672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x794bb6779ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x794bb677b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x794c053ac5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x794c06e9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x794c06f29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x794c05245446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x794bb63f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x794c053ac5c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x794c06e9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x794c06f29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank7]:[E402 18:37:18.555202256 ProcessGroupNCCL.cpp:616] [Rank 7] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+[rank0]:[E402 18:37:18.555670740 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 0] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank0]:[E402 18:37:18.555682300 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 0] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank0]:[E402 18:37:18.555686200 ProcessGroupNCCL.cpp:630] [Rank 0] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank0]:[E402 18:37:18.555690480 ProcessGroupNCCL.cpp:636] [Rank 0] To avoid data inconsistency, we are taking the entire process down.
+[rank7]:[E402 18:37:18.555671930 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 7] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank7]:[E402 18:37:18.555682420 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 7] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank7]:[E402 18:37:18.555686180 ProcessGroupNCCL.cpp:630] [Rank 7] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank7]:[E402 18:37:18.555690490 ProcessGroupNCCL.cpp:636] [Rank 7] To avoid data inconsistency, we are taking the entire process down.
+[rank7]:[E402 18:37:18.556615916 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 7] Process group watchdog thread terminated with exception: [Rank 7] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x751e760af446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x751e27572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x751e27579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x751e2757b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x751e762165c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x751e77c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x751e77d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+[rank0]:[E402 18:37:18.556642147 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 0] Process group watchdog thread terminated with exception: [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7819b2fbf446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x781964572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x781964579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x78196457b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7819b31265c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7819b4c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7819b4d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 7] Process group watchdog thread terminated with exception: [Rank 7] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x751e760af446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x751e27572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x751e27579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x751e2757b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x751e762165c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x751e77c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x751e77d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x751e760af446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x751e271f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x751e762165c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x751e77c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x751e77d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 0] Process group watchdog thread terminated with exception: [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600046 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7819b2fbf446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x781964572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x781964579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x78196457b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x7819b31265c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x7819b4c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x7819b4d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x7819b2fbf446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x7819641f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x7819b31265c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x7819b4c9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x7819b4d29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank5]:[E402 18:37:18.572125667 ProcessGroupNCCL.cpp:616] [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600062 milliseconds before timing out.
+[rank5]:[E402 18:37:18.572645721 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 5] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank5]:[E402 18:37:18.572659601 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 5] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank5]:[E402 18:37:18.572662801 ProcessGroupNCCL.cpp:630] [Rank 5] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank5]:[E402 18:37:18.572666961 ProcessGroupNCCL.cpp:636] [Rank 5] To avoid data inconsistency, we are taking the entire process down.
+[rank5]:[E402 18:37:18.573549098 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 5] Process group watchdog thread terminated with exception: [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600062 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x728404d9f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7283b6372672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7283b6379ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7283b637b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x728404f065c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x72840689caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x728406929c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 5] Process group watchdog thread terminated with exception: [Rank 5] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600062 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x728404d9f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x7283b6372672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x7283b6379ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x7283b637b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x728404f065c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x72840689caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x728406929c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x728404d9f446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x7283b5ff3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x728404f065c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x72840689caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x728406929c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+[rank2]:[E402 18:37:18.609243143 ProcessGroupNCCL.cpp:616] [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600100 milliseconds before timing out.
+[rank2]:[E402 18:37:18.609954038 ProcessGroupNCCL.cpp:1785] [PG ID 0 PG GUID 0(default_pg) Rank 2] Exception (either an error or timeout) detected by watchdog at work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank2]:[E402 18:37:18.609967568 ProcessGroupNCCL.cpp:1834] [PG ID 0 PG GUID 0(default_pg) Rank 2] Timeout at NCCL work: 1, last enqueued NCCL work: 1, last completed NCCL work: -1.
+[rank2]:[E402 18:37:18.609972068 ProcessGroupNCCL.cpp:630] [Rank 2] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank2]:[E402 18:37:18.609977178 ProcessGroupNCCL.cpp:636] [Rank 2] To avoid data inconsistency, we are taking the entire process down.
+[rank2]:[E402 18:37:18.611109356 ProcessGroupNCCL.cpp:1595] [PG ID 0 PG GUID 0(default_pg) Rank 2] Process group watchdog thread terminated with exception: [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600100 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x709b8dfef446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x709b3f572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x709b3f579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x709b3f57b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x709b8e1565c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x709b8fc9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x709b8fd29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+terminate called after throwing an instance of 'c10::DistBackendError'
+  what():  [PG ID 0 PG GUID 0(default_pg) Rank 2] Process group watchdog thread terminated with exception: [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=1, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Timeout(ms)=600000) ran for 600100 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x709b8dfef446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x709b3f572672 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x709b3f579ab3 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x709b3f57b51d in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x709b8e1565c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x9caa4 (0x709b8fc9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #6: <unknown function> + 0x129c3c (0x709b8fd29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+Exception raised from ncclCommWatchdog at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:1601 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x709b8dfef446 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0xe3f297 (0x709b3f1f3297 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: <unknown function> + 0x145c0 (0x709b8e1565c0 in /home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/lib/libtorch.so)
+frame #3: <unknown function> + 0x9caa4 (0x709b8fc9caa4 in /lib/x86_64-linux-gnu/libc.so.6)
+frame #4: <unknown function> + 0x129c3c (0x709b8fd29c3c in /lib/x86_64-linux-gnu/libc.so.6)
+
+srun: error: n-802: tasks 1-7: Aborted (core dumped)
+srun: error: n-802: task 0: Aborted (core dumped)

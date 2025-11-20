@@ -1,0 +1,13 @@
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/BPMDetect.h
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/FIFOSampleBuffer.h
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/FIFOSamplePipe.h
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/STTypes.h
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/SoundTouch.h
+/a/home/cc/students/cs/amitstein/.local/include/soundtouch/soundtouch_config.h
+/a/home/cc/students/cs/amitstein/.local/lib/libSoundTouch.a
+/a/home/cc/students/cs/amitstein/.local/bin/soundstretch
+/a/home/cc/students/cs/amitstein/.local/lib/pkgconfig/soundtouch.pc
+/a/home/cc/students/cs/amitstein/.local/lib/cmake/SoundTouch/SoundTouchTargets.cmake
+/a/home/cc/students/cs/amitstein/.local/lib/cmake/SoundTouch/SoundTouchTargets-noconfig.cmake
+/a/home/cc/students/cs/amitstein/.local/lib/cmake/SoundTouch/SoundTouchConfig.cmake
+/a/home/cc/students/cs/amitstein/.local/lib/cmake/SoundTouch/SoundTouchConfigVersion.cmake

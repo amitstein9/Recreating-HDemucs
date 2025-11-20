@@ -1,0 +1,13 @@
+INFO:dora.distrib:world_size is 1, skipping init.
+INFO:demucs.train:train/valid set size: 18368 14
+INFO:demucs.evaluate:Eval | 12/50 | 22.5 sec/it
+INFO:demucs.evaluate:Eval | 24/50 | 24.1 sec/it
+INFO:demucs.evaluate:Eval | 36/50 | 24.7 sec/it
+INFO:demucs.evaluate:Eval | 48/50 | 25.7 sec/it
+INFO:demucs.evaluate:Eval (BSS) | 12/50 | 5012.50 it/sec
+INFO:demucs.evaluate:Eval (BSS) | 24/50 | 12.7 sec/it
+INFO:demucs.evaluate:Eval (BSS) | 36/50 | 32.3 sec/it
+INFO:demucs.evaluate:Eval (BSS) | 48/50 | 36.4 sec/it
+slurmstepd: error: _cgroup_procs_check: failed on path (null)/cgroup.procs: No such file or directory
+slurmstepd: error: Cannot write to cgroup.procs for (null)
+slurmstepd: error: Unable to move pid 963645 to init root cgroup (null)

@@ -1,0 +1,294 @@
+soundstretch located at:
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/soundstretch
+-rwxr-xr-x 1 amitstein cs_reinf_learning_15 167888 Mar 22 23:35 /home/yandex/APDL2425a/group_15/demucs/soundtouch/build/soundstretch
+Updated CUDA_VISIBLE_DEVICES: 0,1,2,3,4,5,6,7
+Wed Apr  2 21:32:32 2025       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.183.01             Driver Version: 535.183.01   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA L40S                    Off | 00000000:25:00.0 Off |                    0 |
+| N/A   30C    P8              33W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   1  NVIDIA L40S                    Off | 00000000:26:00.0 Off |                    0 |
+| N/A   31C    P8              34W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   2  NVIDIA L40S                    Off | 00000000:45:00.0 Off |                    0 |
+| N/A   29C    P8              32W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   3  NVIDIA L40S                    Off | 00000000:46:00.0 Off |                    0 |
+| N/A   30C    P8              33W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   4  NVIDIA L40S                    Off | 00000000:A5:00.0 Off |                    0 |
+| N/A   26C    P8              32W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   5  NVIDIA L40S                    Off | 00000000:A6:00.0 Off |                    0 |
+| N/A   26C    P8              31W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   6  NVIDIA L40S                    Off | 00000000:C5:00.0 Off |                    0 |
+| N/A   26C    P8              32W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+|   7  NVIDIA L40S                    Off | 00000000:C6:00.0 Off |                    0 |
+| N/A   25C    P8              32W / 350W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+GPUs available: 8
+Process rank: 1, using GPU: 1
+Process rank: 2, using GPU: 2
+Process rank: 5, using GPU: 5
+Process rank: 3, using GPU: 3
+Process rank: 6, using GPU: 6
+Process rank: 0, using GPU: 0
+Process rank: 4, using GPU: 4
+Process rank: 7, using GPU: 7
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:00[0m][[34mdemucs.train[0m][[32mINFO[0m] - For logs, checkpoints and samples check /home/yandex/APDL2425a/group_15/demucs/outputs/xps/53288a8c[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 4/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 3/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 5/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 2/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 6/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 7/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 1/8 (local 0) from env[0m
+[[36m04-02 21:33:01[0m][[34mdora.distrib[0m][[32mINFO[0m] - Distributed init: 0/8 (local 0) from env[0m
+n-804:1049830:1049830 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049830:1049830 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049830:1049830 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049830:1049830 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049830:1049830 [0] NCCL INFO cudaDriverVersion 12020
+NCCL version 2.21.5+cuda11.0
+n-804:1049837:1049837 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049837:1049837 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049837:1049837 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049837:1049837 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049837:1049837 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049837:1051442 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049837:1051442 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049837:1051442 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049837:1051442 [0] NCCL INFO Using network Socket
+n-804:1049837:1051442 [0] NCCL INFO ncclCommInitRank comm 0x2b1acb10 rank 7 nranks 8 cudaDev 0 nvmlDev 7 busId c6000 commId 0xed22e544139546ae - Init START
+n-804:1049837:1051442 [0] NCCL INFO Setting affinity for GPU 7 to ff,00000000,000000ff,00000000
+n-804:1049837:1051442 [0] NCCL INFO comm 0x2b1acb10 rank 7 nRanks 8 nNodes 1 localRanks 8 localRank 7 MNNVL 0
+n-804:1049837:1051442 [0] NCCL INFO Trees [0] -1/-1/-1->7->6 [1] -1/-1/-1->7->6
+n-804:1049837:1051442 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049837:1051442 [0] NCCL INFO Channel 00/0 : 7[7] -> 0[0] via P2P/IPC
+n-804:1049837:1051442 [0] NCCL INFO Channel 01/0 : 7[7] -> 0[0] via P2P/IPC
+n-804:1049837:1051442 [0] NCCL INFO Connected all rings
+n-804:1049837:1051442 [0] NCCL INFO Channel 00/0 : 7[7] -> 6[6] via P2P/IPC
+n-804:1049837:1051442 [0] NCCL INFO Channel 01/0 : 7[7] -> 6[6] via P2P/IPC
+n-804:1049837:1051442 [0] NCCL INFO Connected all trees
+n-804:1049837:1051442 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049837:1051442 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049837:1051442 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049837:1051442 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049837:1051442 [0] NCCL INFO ncclCommInitRank comm 0x2b1acb10 rank 7 nranks 8 cudaDev 0 nvmlDev 7 busId c6000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049832:1049832 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049832:1049832 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049832:1049832 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049832:1049832 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049832:1049832 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049832:1051449 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049832:1051449 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049832:1051449 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049832:1051449 [0] NCCL INFO Using network Socket
+n-804:1049832:1051449 [0] NCCL INFO ncclCommInitRank comm 0x40855160 rank 2 nranks 8 cudaDev 0 nvmlDev 2 busId 45000 commId 0xed22e544139546ae - Init START
+n-804:1049832:1051449 [0] NCCL INFO Setting affinity for GPU 2 to ff,00000000,000000ff
+n-804:1049832:1051449 [0] NCCL INFO comm 0x40855160 rank 2 nRanks 8 nNodes 1 localRanks 8 localRank 2 MNNVL 0
+n-804:1049832:1051449 [0] NCCL INFO Trees [0] 3/-1/-1->2->1 [1] 3/-1/-1->2->1
+n-804:1049832:1051449 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049832:1051449 [0] NCCL INFO Channel 00/0 : 2[2] -> 3[3] via P2P/IPC
+n-804:1049832:1051449 [0] NCCL INFO Channel 01/0 : 2[2] -> 3[3] via P2P/IPC
+n-804:1049832:1051449 [0] NCCL INFO Connected all rings
+n-804:1049832:1051449 [0] NCCL INFO Channel 00/0 : 2[2] -> 1[1] via P2P/IPC
+n-804:1049832:1051449 [0] NCCL INFO Channel 01/0 : 2[2] -> 1[1] via P2P/IPC
+n-804:1049832:1051449 [0] NCCL INFO Connected all trees
+n-804:1049832:1051449 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049832:1051449 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049832:1051449 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049832:1051449 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049832:1051449 [0] NCCL INFO ncclCommInitRank comm 0x40855160 rank 2 nranks 8 cudaDev 0 nvmlDev 2 busId 45000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049831:1049831 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049831:1049831 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049831:1049831 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049831:1049831 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049831:1049831 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049831:1051446 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049831:1051446 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049831:1051446 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049831:1051446 [0] NCCL INFO Using network Socket
+n-804:1049831:1051446 [0] NCCL INFO ncclCommInitRank comm 0x2f138d40 rank 1 nranks 8 cudaDev 0 nvmlDev 1 busId 26000 commId 0xed22e544139546ae - Init START
+n-804:1049831:1051446 [0] NCCL INFO Setting affinity for GPU 1 to ff0000,00000000,00ff0000
+n-804:1049831:1051446 [0] NCCL INFO comm 0x2f138d40 rank 1 nRanks 8 nNodes 1 localRanks 8 localRank 1 MNNVL 0
+n-804:1049831:1051446 [0] NCCL INFO Trees [0] 2/-1/-1->1->0 [1] 2/-1/-1->1->0
+n-804:1049831:1051446 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049831:1051446 [0] NCCL INFO Channel 00/0 : 1[1] -> 2[2] via P2P/IPC
+n-804:1049831:1051446 [0] NCCL INFO Channel 01/0 : 1[1] -> 2[2] via P2P/IPC
+n-804:1049831:1051446 [0] NCCL INFO Connected all rings
+n-804:1049831:1051446 [0] NCCL INFO Channel 00/0 : 1[1] -> 0[0] via P2P/IPC
+n-804:1049831:1051446 [0] NCCL INFO Channel 01/0 : 1[1] -> 0[0] via P2P/IPC
+n-804:1049831:1051446 [0] NCCL INFO Connected all trees
+n-804:1049831:1051446 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049831:1051446 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049831:1051446 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049831:1051446 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049831:1051446 [0] NCCL INFO ncclCommInitRank comm 0x2f138d40 rank 1 nranks 8 cudaDev 0 nvmlDev 1 busId 26000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049830:1051447 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049830:1051447 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049830:1051447 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049830:1051447 [0] NCCL INFO Using network Socket
+n-804:1049830:1051447 [0] NCCL INFO ncclCommInitRank comm 0x12d8fdd0 rank 0 nranks 8 cudaDev 0 nvmlDev 0 busId 25000 commId 0xed22e544139546ae - Init START
+n-804:1049830:1051447 [0] NCCL INFO Setting affinity for GPU 0 to ff0000,00000000,00ff0000
+n-804:1049830:1051447 [0] NCCL INFO comm 0x12d8fdd0 rank 0 nRanks 8 nNodes 1 localRanks 8 localRank 0 MNNVL 0
+n-804:1049830:1051447 [0] NCCL INFO Channel 00/02 :    0   1   2   3   4   5   6   7
+n-804:1049830:1051447 [0] NCCL INFO Channel 01/02 :    0   1   2   3   4   5   6   7
+n-804:1049830:1051447 [0] NCCL INFO Trees [0] 1/-1/-1->0->-1 [1] 1/-1/-1->0->-1
+n-804:1049830:1051447 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049830:1051447 [0] NCCL INFO Channel 00/0 : 0[0] -> 1[1] via P2P/IPC
+n-804:1049830:1051447 [0] NCCL INFO Channel 01/0 : 0[0] -> 1[1] via P2P/IPC
+n-804:1049830:1051447 [0] NCCL INFO Connected all rings
+n-804:1049830:1051447 [0] NCCL INFO Connected all trees
+n-804:1049830:1051447 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049830:1051447 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049830:1051447 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049830:1051447 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049830:1051447 [0] NCCL INFO ncclCommInitRank comm 0x12d8fdd0 rank 0 nranks 8 cudaDev 0 nvmlDev 0 busId 25000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049836:1049836 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049836:1049836 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049836:1049836 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049836:1049836 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049836:1049836 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049836:1051443 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049836:1051443 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049836:1051443 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049836:1051443 [0] NCCL INFO Using network Socket
+n-804:1049836:1051443 [0] NCCL INFO ncclCommInitRank comm 0x2fae4fa0 rank 6 nranks 8 cudaDev 0 nvmlDev 6 busId c5000 commId 0xed22e544139546ae - Init START
+n-804:1049836:1051443 [0] NCCL INFO Setting affinity for GPU 6 to ff,00000000,000000ff,00000000
+n-804:1049836:1051443 [0] NCCL INFO comm 0x2fae4fa0 rank 6 nRanks 8 nNodes 1 localRanks 8 localRank 6 MNNVL 0
+n-804:1049836:1051443 [0] NCCL INFO Trees [0] 7/-1/-1->6->5 [1] 7/-1/-1->6->5
+n-804:1049836:1051443 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049836:1051443 [0] NCCL INFO Channel 00/0 : 6[6] -> 7[7] via P2P/IPC
+n-804:1049836:1051443 [0] NCCL INFO Channel 01/0 : 6[6] -> 7[7] via P2P/IPC
+n-804:1049836:1051443 [0] NCCL INFO Connected all rings
+n-804:1049836:1051443 [0] NCCL INFO Channel 00/0 : 6[6] -> 5[5] via P2P/IPC
+n-804:1049836:1051443 [0] NCCL INFO Channel 01/0 : 6[6] -> 5[5] via P2P/IPC
+n-804:1049836:1051443 [0] NCCL INFO Connected all trees
+n-804:1049836:1051443 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049836:1051443 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049836:1051443 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049836:1051443 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049836:1051443 [0] NCCL INFO ncclCommInitRank comm 0x2fae4fa0 rank 6 nranks 8 cudaDev 0 nvmlDev 6 busId c5000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049834:1049834 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049834:1049834 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049834:1049834 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049834:1049834 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049834:1049834 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049834:1051445 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049834:1051445 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049834:1051445 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049834:1051445 [0] NCCL INFO Using network Socket
+n-804:1049834:1051445 [0] NCCL INFO ncclCommInitRank comm 0x26b1f800 rank 4 nranks 8 cudaDev 0 nvmlDev 4 busId a5000 commId 0xed22e544139546ae - Init START
+n-804:1049834:1051445 [0] NCCL INFO Setting affinity for GPU 4 to ff0000,00000000,00ff0000,00000000
+n-804:1049834:1051445 [0] NCCL INFO comm 0x26b1f800 rank 4 nRanks 8 nNodes 1 localRanks 8 localRank 4 MNNVL 0
+n-804:1049834:1051445 [0] NCCL INFO Trees [0] 5/-1/-1->4->3 [1] 5/-1/-1->4->3
+n-804:1049834:1051445 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049834:1051445 [0] NCCL INFO Channel 00/0 : 4[4] -> 5[5] via P2P/IPC
+n-804:1049834:1051445 [0] NCCL INFO Channel 01/0 : 4[4] -> 5[5] via P2P/IPC
+n-804:1049834:1051445 [0] NCCL INFO Connected all rings
+n-804:1049834:1051445 [0] NCCL INFO Channel 00/0 : 4[4] -> 3[3] via P2P/IPC
+n-804:1049834:1051445 [0] NCCL INFO Channel 01/0 : 4[4] -> 3[3] via P2P/IPC
+n-804:1049834:1051445 [0] NCCL INFO Connected all trees
+n-804:1049834:1051445 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049834:1051445 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049834:1051445 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049834:1051445 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049834:1051445 [0] NCCL INFO ncclCommInitRank comm 0x26b1f800 rank 4 nranks 8 cudaDev 0 nvmlDev 4 busId a5000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049833:1049833 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049833:1049833 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049833:1049833 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049833:1049833 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049833:1049833 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049833:1051448 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049833:1051448 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049833:1051448 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049833:1051448 [0] NCCL INFO Using network Socket
+n-804:1049833:1051448 [0] NCCL INFO ncclCommInitRank comm 0x436d1f90 rank 3 nranks 8 cudaDev 0 nvmlDev 3 busId 46000 commId 0xed22e544139546ae - Init START
+n-804:1049833:1051448 [0] NCCL INFO Setting affinity for GPU 3 to ff,00000000,000000ff
+n-804:1049833:1051448 [0] NCCL INFO comm 0x436d1f90 rank 3 nRanks 8 nNodes 1 localRanks 8 localRank 3 MNNVL 0
+n-804:1049833:1051448 [0] NCCL INFO Trees [0] 4/-1/-1->3->2 [1] 4/-1/-1->3->2
+n-804:1049833:1051448 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049833:1051448 [0] NCCL INFO Channel 00/0 : 3[3] -> 4[4] via P2P/IPC
+n-804:1049833:1051448 [0] NCCL INFO Channel 01/0 : 3[3] -> 4[4] via P2P/IPC
+n-804:1049833:1051448 [0] NCCL INFO Connected all rings
+n-804:1049833:1051448 [0] NCCL INFO Channel 00/0 : 3[3] -> 2[2] via P2P/IPC
+n-804:1049833:1051448 [0] NCCL INFO Channel 01/0 : 3[3] -> 2[2] via P2P/IPC
+n-804:1049833:1051448 [0] NCCL INFO Connected all trees
+n-804:1049833:1051448 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049833:1051448 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049833:1051448 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049833:1051448 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049833:1051448 [0] NCCL INFO ncclCommInitRank comm 0x436d1f90 rank 3 nranks 8 cudaDev 0 nvmlDev 3 busId 46000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049835:1049835 [0] NCCL INFO cudaDriverVersion 12020
+n-804:1049835:1049835 [0] NCCL INFO Bootstrap : Using eno1np0:132.67.246.160<0>
+n-804:1049835:1049835 [0] NCCL INFO NET/Plugin: No plugin found (libnccl-net.so)
+n-804:1049835:1049835 [0] NCCL INFO NET/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-net.so
+n-804:1049835:1049835 [0] NCCL INFO NET/Plugin: Using internal network plugin.
+n-804:1049835:1051444 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+n-804:1049835:1051444 [0] NCCL INFO NET/Socket : Using [0]eno1np0:132.67.246.160<0>
+n-804:1049835:1051444 [0] NCCL INFO Using non-device net plugin version 0
+n-804:1049835:1051444 [0] NCCL INFO Using network Socket
+n-804:1049835:1051444 [0] NCCL INFO ncclCommInitRank comm 0x2b42b730 rank 5 nranks 8 cudaDev 0 nvmlDev 5 busId a6000 commId 0xed22e544139546ae - Init START
+n-804:1049835:1051444 [0] NCCL INFO Setting affinity for GPU 5 to ff0000,00000000,00ff0000,00000000
+n-804:1049835:1051444 [0] NCCL INFO comm 0x2b42b730 rank 5 nRanks 8 nNodes 1 localRanks 8 localRank 5 MNNVL 0
+n-804:1049835:1051444 [0] NCCL INFO Trees [0] 6/-1/-1->5->4 [1] 6/-1/-1->5->4
+n-804:1049835:1051444 [0] NCCL INFO P2P Chunksize set to 131072
+n-804:1049835:1051444 [0] NCCL INFO Channel 00/0 : 5[5] -> 6[6] via P2P/IPC
+n-804:1049835:1051444 [0] NCCL INFO Channel 01/0 : 5[5] -> 6[6] via P2P/IPC
+n-804:1049835:1051444 [0] NCCL INFO Connected all rings
+n-804:1049835:1051444 [0] NCCL INFO Channel 00/0 : 5[5] -> 4[4] via P2P/IPC
+n-804:1049835:1051444 [0] NCCL INFO Channel 01/0 : 5[5] -> 4[4] via P2P/IPC
+n-804:1049835:1051444 [0] NCCL INFO Connected all trees
+n-804:1049835:1051444 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 512 | 512
+n-804:1049835:1051444 [0] NCCL INFO 2 coll channels, 2 collnet channels, 0 nvls channels, 2 p2p channels, 2 p2p channels per peer
+n-804:1049835:1051444 [0] NCCL INFO TUNER/Plugin: Plugin load returned 2 : libnccl-net.so: cannot open shared object file: No such file or directory : when loading libnccl-tuner.so
+n-804:1049835:1051444 [0] NCCL INFO TUNER/Plugin: Using internal tuner plugin.
+n-804:1049835:1051444 [0] NCCL INFO ncclCommInitRank comm 0x2b42b730 rank 5 nranks 8 cudaDev 0 nvmlDev 5 busId a6000 commId 0xed22e544139546ae - Init COMPLETE
+n-804:1049833:1051462 [0] NCCL INFO [Service thread] Connection closed by localRank 3
+n-804:1049834:1051453 [0] NCCL INFO [Service thread] Connection closed by localRank 4
+n-804:1049835:1051452 [0] NCCL INFO [Service thread] Connection closed by localRank 5
+n-804:1049832:1051463 [0] NCCL INFO [Service thread] Connection closed by localRank 2
+n-804:1049833:1049833 [0] NCCL INFO comm 0x436d1f90 rank 3 nranks 8 cudaDev 0 busId 46000 - Abort COMPLETE
+n-804:1049834:1049834 [0] NCCL INFO comm 0x26b1f800 rank 4 nranks 8 cudaDev 0 busId a5000 - Abort COMPLETE
+n-804:1049831:1051455 [0] NCCL INFO [Service thread] Connection closed by localRank 1
+n-804:1049830:1051454 [0] NCCL INFO [Service thread] Connection closed by localRank 0
+n-804:1049836:1051451 [0] NCCL INFO [Service thread] Connection closed by localRank 6
+n-804:1049835:1049835 [0] NCCL INFO comm 0x2b42b730 rank 5 nranks 8 cudaDev 0 busId a6000 - Abort COMPLETE
+n-804:1049837:1051450 [0] NCCL INFO [Service thread] Connection closed by localRank 7
+n-804:1049836:1049836 [0] NCCL INFO comm 0x2fae4fa0 rank 6 nranks 8 cudaDev 0 busId c5000 - Abort COMPLETE
+n-804:1049830:1049830 [0] NCCL INFO comm 0x12d8fdd0 rank 0 nranks 8 cudaDev 0 busId 25000 - Abort COMPLETE
+n-804:1049837:1049837 [0] NCCL INFO comm 0x2b1acb10 rank 7 nranks 8 cudaDev 0 busId c6000 - Abort COMPLETE
+n-804:1049831:1049831 [0] NCCL INFO comm 0x2f138d40 rank 1 nranks 8 cudaDev 0 busId 26000 - Abort COMPLETE
+n-804:1049832:1049832 [0] NCCL INFO comm 0x40855160 rank 2 nranks 8 cudaDev 0 busId 45000 - Abort COMPLETE

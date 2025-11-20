@@ -1,0 +1,34 @@
+  0%|                                                                                   | 0.0/33.0 [00:00<?, ?seconds/s]  0%|                                                                                   | 0.0/33.0 [00:00<?, ?seconds/s]
+Traceback (most recent call last):
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/separate.py", line 222, in <module>
+    main()
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/separate.py", line 162, in main
+    origin, res = separator.separate_audio_file(track)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/api.py", line 307, in separate_audio_file
+    return self.separate_tensor(self._load_audio(file), self.samplerate)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/api.py", line 270, in separate_tensor
+    out = apply_model(
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/apply.py", line 251, in apply_model
+    res = apply_model(model, shifted, **kwargs, callback_arg=callback_arg)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/apply.py", line 290, in apply_model
+    chunk_out = future.result()  # type: th.Tensor
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/utils.py", line 132, in result
+    return self.func(*self.args, **self.kwargs)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/apply.py", line 317, in apply_model
+    out = model(padded_mix)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/joberant/NLP_2425a/amitstein/anaconda3/envs/demucs/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/hdemucs.py", line 694, in forward
+    mag = self._magnitude(z).to(mix.device)
+  File "/home/yandex/APDL2425a/group_15/demucs/demucs/hdemucs.py", line 641, in _magnitude
+    m = z.abs()
+RuntimeError: CUDA driver error: device kernel image is invalid
+slurmstepd: error: _cgroup_procs_check: failed on path (null)/cgroup.procs: No such file or directory
+slurmstepd: error: Cannot write to cgroup.procs for (null)
+slurmstepd: error: Unable to move pid 687546 to init root cgroup (null)

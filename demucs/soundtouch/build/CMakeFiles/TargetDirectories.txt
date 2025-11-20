@@ -1,0 +1,8 @@
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/SoundTouch.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/soundstretch.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/edit_cache.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/rebuild_cache.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/list_install_components.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/install.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/install/local.dir
+/home/yandex/APDL2425a/group_15/demucs/soundtouch/build/CMakeFiles/install/strip.dir
